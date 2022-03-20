@@ -27,3 +27,6 @@ https://github.com/rahulkhatri19/FlutterLearning
 
 ## PINKESHDARJI
 https://github.com/pinkeshdarji/flutter_bottom_navigation_bar
+
+## SYNCFUSION
+https://github.com/syncfusion/flutter-widgets
