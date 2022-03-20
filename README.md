@@ -9,8 +9,15 @@ Each edition has its own branch, named `editions/[EDITION]`. The default branch 
 We’ve set up an official forum for the book at [https://forums.raywenderlich.com/c/books/flutter-apprentice](https://forums.raywenderlich.com/c/books/flutter-apprentice). This is a great place to ask questions about the book or to submit any errors you may find.
 
 ## Release History
-
+https://www.raywenderlich.com/books/flutter-apprentice/v1.0.ea2/chapters/8-navigation-presentation
 | Branch                                                                            | Edition | Release Date |
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
 | [editions/1.0](https://github.com/raywenderlich/flta-materials/tree/editions/1.0) | 1.0     | 2021-06-02   |
 | [editions/2.0](https://github.com/raywenderlich/flta-materials/tree/editions/2.0) | 2.0     | 2021-10-06   |
+
+##
+Libro
+
+
+##medium
+https://medium.com/flutter-community/flutter-basic-widgets-349e24140453
